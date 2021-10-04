@@ -1,4 +1,4 @@
-# Integrated Development Environment (IDE) for Angular
+# Debugging
 
 ## Visual Studio Code (VS Code)
 
