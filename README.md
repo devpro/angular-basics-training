@@ -1,2 +1,3 @@
-# angular-basics-training
-Training resources to learn the basics of Angular
+# Angular basics training
+
+Training resources to learn the basics of Angular.
